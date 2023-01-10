@@ -30,7 +30,7 @@ const Paral = () => {
 
    <ParallaxLayer
    sticky={{
-    start:0.9,
+    start:0.3,
     end: 2.5
    }}
    >
