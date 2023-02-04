@@ -1,2 +1,1 @@
-#
-Parallax with React String
+##Parallax
